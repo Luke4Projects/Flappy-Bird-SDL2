@@ -1,0 +1,3 @@
+C:/Users/admin/Desktop/test buildd/build/CMakeFiles/rebuild_cache.dir
+C:/Users/admin/Desktop/test buildd/build/CMakeFiles/Flappy_Bird.dir
+C:/Users/admin/Desktop/test buildd/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+C:\Users\admin\Desktop\cmake-3.20.5-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\Flappy_Bird.dir/objects.a
+C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\Flappy_Bird.dir/objects.a @CMakeFiles\Flappy_Bird.dir\objects1.rsp
+C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe -Wl,--whole-archive CMakeFiles\Flappy_Bird.dir/objects.a -Wl,--no-whole-archive -o Flappy_Bird.exe -Wl,--out-implib,libFlappy_Bird.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Flappy_Bird.dir\linklibs.rsp
